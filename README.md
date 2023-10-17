@@ -1,6 +1,6 @@
-# Detective NFT Marketplace
+# Detective Boy NFT Marketplace
 
-Welcome to the Detective NFT Marketplace! This is an application that allows users to connect their wallets (like MetaMask), mint NFTs, and withdraw funds from an smart contract. Please note that minting NFTs in this application requires the Polygon Mumbai network.
+Welcome to the Detective Boy NFT Marketplace! This is an application that allows users to connect their wallets (like MetaMask), mint NFTs, and withdraw funds from an smart contract. Please note that minting NFTs in this application requires the Polygon Mumbai network.
 
 
 ## Contribution
